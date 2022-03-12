@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\Documentos\\UCA\\VSCode\\ComandosSharp\\ComandosSharp.csproj",
+      "projectUniqueName": "T:\\Documentos\\UCA\\VSCode\\PruebasC-\\ComandosSharp.csproj",
       "projectName": "ComandosSharp",
-      "projectPath": "T:\\Documentos\\UCA\\VSCode\\ComandosSharp\\ComandosSharp.csproj",
+      "projectPath": "T:\\Documentos\\UCA\\VSCode\\PruebasC-\\ComandosSharp.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "T:\\Documentos\\UCA\\VSCode\\ComandosSharp\\obj\\",
+      "outputPath": "T:\\Documentos\\UCA\\VSCode\\PruebasC-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
